@@ -1,2 +1,3 @@
 I am in the squash branch demo now.
 This commit is from the GIT bash.
+I am adding this libe from bash.
