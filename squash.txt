@@ -1,1 +1,2 @@
-I am in the squash demo now.
+I am in the squash branch demo now.
+This commit is from the GIT bash.
